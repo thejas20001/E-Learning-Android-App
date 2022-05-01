@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/leaderBoard"
+        android:title="Leaderboard"
+        android:icon="@drawable/ic_leaderboard"/>
+
+    <item android:id="@+id/pdf"
+        android:title="eBooks"
+        android:icon="@drawable/ic_pdf"/>
+
+    <item android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/ic_share"/>
+
+    <item android:id="@+id/rate"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_rate"/>
+
+    <item android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/ic_about"/>
+
+</menu>
